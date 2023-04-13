@@ -1,0 +1,53 @@
+body {
+  background-color: aquamarine;
+}
+
+.settings {
+  height: 650px;
+  width: 380px;
+  background-color: antiquewhite;
+  position: absolute;
+  right: 35%;
+  bottom: 25%;
+  border-radius: 40px;
+}
+
+.godzina {
+  margin-left: 5%;
+}
+
+#pies {
+  text-decoration: none;
+  color: rgb(56, 99, 218);
+  margin-left: 3%;
+  font-weight: bold;
+}
+
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.numer1 {
+  text-align: center;
+}
+
+.icons {
+  position: relative;
+  left: 78%;
+  top: 8.5%;
+}
+
+img {
+  height: 23px;
+  width: 60px;
+}
+
+.listaustawien {
+  margin-left: 8%;
+  margin-top: 2%;
+}
+
+.listaustawien1 {
+  margin-top: 3%;
+}
